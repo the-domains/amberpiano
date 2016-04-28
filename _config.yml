@@ -1,0 +1,28 @@
+name: amberpiano
+favicon: null
+layout_spectrum: 0.9511008025147021
+typography_spectrum: 0.41834599850699306
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8410037327557802
+  lightness: 0.40670889569446445
+  saturation: 0.17235834361054003
+  rhythmicContrast: 0.5467396096792072
+purpose: []
